@@ -9,7 +9,7 @@ int main() {
  
  cout << "Aplicacion lesson 10" << endl;
  
- cout << "2o COMMIT" << endl;
+ cout << "MALL" << endl;
  
  cout << "MALLLLL" << endl;
 	
