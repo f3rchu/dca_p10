@@ -11,7 +11,7 @@ int main() {
  
  cout << "2o COMMIT" << endl;
  
- cout << "2o sin error" << endl;
+ cout << "MALLLLL" << endl;
 	
  return 0;
  }
