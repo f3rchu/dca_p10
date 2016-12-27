@@ -9,9 +9,7 @@ int main() {
  
  cout << "Aplicacion lesson 10" << endl;
  
- cout << "MALL" << endl;
- 
- cout << "MALLLLL" << endl;
+ cout << "Todo bien tras BISECT" << endl;
 	
  return 0;
  }
